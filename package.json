@@ -1,22 +1,22 @@
 {
-  "name": "pkg-name",
+  "name": "ztecharts",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@7.1.2",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/developer-plus/pkg-name#readme",
+  "homepage": "https://github.com/zxTick/ztecharts#readme",
   "bugs": {
-    "url": "https://github.com/developer-plus/pkg-name/issues"
+    "url": "https://github.com/zxTick/ztecharts/issues"
   },
   "license": "MIT",
   "author": "developer-plus",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/developer-plus/pkg-name.git"
+    "url": "git+https://github.com/zxTick/ztecharts"
   },
-  "main": "./dist/index.mjs",
-  "module": "./dist/index.mjs",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {
